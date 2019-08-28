@@ -8,7 +8,7 @@ CNN 3con-32/64/128-nodes-0/1/2-dense
 
 ![imagine](https://github.com/Yilin1010/imagine-classification/blob/master/screenshot/33.png)
 
-![imagine](https://github.com/Yilin1010/imagine-classification/blob/master/screenshot/5.png)
+![imagine](https://github.com/Yilin1010/imagine-classification/blob/master/screenshot/6.png)
 
 
 ![imagine](https://github.com/Yilin1010/imagine-classification/blob/master/screenshot/loss.png)
